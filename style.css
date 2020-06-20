@@ -1,3 +1,26 @@
+.header {
+    position: absolute;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    width: 1440px;
+    height: 400px;
+    left: 0px;
+    background-color: green;
+}
+
+h2 {
+    width: 170px;
+    height: 34px;
+    left: 200px;
+    top: 100px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 50px;
+    color: #ffffff;
+}
+
 .hero-img {
     position: absolute;
     width: 1440px;
